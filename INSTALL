@@ -26,6 +26,8 @@ MapOSMatic depends on :
 You will also most likely need a working PostGIS installation for the
 entire pipeline to run. See the INSTALL documentation of OcitySMap for
 more details.
+For Debian Wheezy: sudo apt-get install python python-django python-psycopg2 python-feedparser python-imaging python-anyjson
+
 
 Setup
 -----
